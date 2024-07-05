@@ -1,7 +1,3 @@
-Here's the updated README file for your `WutherToken` project, incorporating additional information:
-
----
-
 # WutherToken (WUWA)
 
 WutherToken (symbol: WUWA) is an ERC20 token built using Solidity and OpenZeppelin libraries. This token contract allows the contract owner to mint tokens to specified addresses and any user to burn and transfer tokens.
